@@ -7,5 +7,8 @@ class StaticPagesController < ApplicationController
 
   def wines
   end
+
+  def contact
+  end
   
 end
